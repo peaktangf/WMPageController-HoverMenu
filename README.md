@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to WMPageController-HoverMenu 👋</h1>
 
-> WMPageController-HoverMenu是WMPageController的一个扩展，再次基础上实现了悬停菜单
+> WMPageController-HoverMenu是WMPageController的一个扩展，在此基础上实现了悬停菜单
 
 ### 效果图
 
